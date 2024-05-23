@@ -1,0 +1,18 @@
+table {
+  width: 50%;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+th,
+td {
+  padding: 8px 12px;
+  text-align: left;
+}
+
+th {
+}
+
+.guid {
+  font-family: "Courier New", Courier, monospace;
+}
